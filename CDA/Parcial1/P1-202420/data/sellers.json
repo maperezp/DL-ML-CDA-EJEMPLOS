@@ -1,0 +1,4878 @@
+[
+    {
+        "id": 1305122305,
+        "nickname": "SASNEXTMOVIL20230207170924",
+        "country_id": "CO",
+        "address": {
+            "city": "Usaqu\u00e9n",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SASNEXTMOVIL20230207170924",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 1712
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 819549189,
+        "nickname": "LUISALEJANDROPASCAGAZAPINZN",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/LUISALEJANDROPASCAGAZAPINZN",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 2051
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 582439941,
+        "nickname": "UDM SHOP",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/UDM+SHOP",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 574
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 738767370,
+        "nickname": "EASYBUYSHOPCOMCO",
+        "country_id": "CO",
+        "address": {
+            "city": "Pereira",
+            "state": "CO-RIS"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/EASYBUYSHOPCOMCO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 9232
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 224086027,
+        "nickname": "SMART_PURCHASE14",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SMART_PURCHASE14",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 3290
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1273767946,
+        "nickname": "TTMKD2HAOCOR",
+        "country_id": "CO",
+        "address": {
+            "city": "Yiwu",
+            "state": "CN-ZJ"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TTMKD2HAOCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 877
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 235708429,
+        "nickname": "MANSI\u00d3NELECTRODOM\u00c9STICOS",
+        "country_id": "CO",
+        "address": {
+            "city": "Fontib\u00f3n",
+            "state": "CO-DC"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MANSI%C3%93NELECTRODOM%C3%89STICOS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 536
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1355049493,
+        "nickname": "CNSULANG-COR",
+        "country_id": "CN",
+        "address": {
+            "city": "Guangzhou",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNSULANG-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 290
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1736512534,
+        "nickname": "CNDONGGUANYONGQIANTECHNCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Dongguan",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNDONGGUANYONGQIANTECHNCOR",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 8
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1790854165,
+        "nickname": "MAEKOSHOP",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MAEKOSHOP",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 49
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 162681369,
+        "nickname": "CELUMOVIL STORE",
+        "country_id": "CO",
+        "address": {
+            "city": "Santa Fe",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CELUMOVIL+STORE",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 27778
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1275370011,
+        "nickname": "CNYQQYEMI-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Haikou",
+            "state": "CN-HI"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNYQQYEMI-COR",
+        "seller_reputation": {
+            "level_id": "3_yellow",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 52
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 606851103,
+        "nickname": "WILTECHNO SASA",
+        "country_id": "CO",
+        "address": {
+            "city": "Puente Aranda",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/WILTECHNO+SASA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 2560
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 300933152,
+        "nickname": "FREDYHHERNANDEZR",
+        "country_id": "CO",
+        "address": {
+            "city": "Girardota",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/FREDYHHERNANDEZR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 265
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 435869217,
+        "nickname": "PUNTONET INSUPE",
+        "country_id": "CO",
+        "address": {
+            "city": "Neiva",
+            "state": "CO-HUI"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/PUNTONET+INSUPE",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 679
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 204229666,
+        "nickname": "ARTEZCOM",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ARTEZCOM",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 5419
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1190492706,
+        "nickname": "NOCNOCASIACOR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/NOCNOCASIACOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 286
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 617435684,
+        "nickname": "TIENDA AMERICANAOFICIAL",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TIENDA+AMERICANAOFICIAL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 2306
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1190527015,
+        "nickname": "CNYIWUCOMMODITIES-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Loudi",
+            "state": "CN-HN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNYIWUCOMMODITIES-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 883
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1706004520,
+        "nickname": "CNMLSTORECOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Shanghai",
+            "state": "CN-SH"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNMLSTORECOR",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 3
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 130141739,
+        "nickname": "LANUTRIENDA",
+        "country_id": "CO",
+        "address": {
+            "city": "Santa Fe",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/LANUTRIENDA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 20
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 186608686,
+        "nickname": "COMPUSERVICE MW",
+        "country_id": "CO",
+        "address": {
+            "city": "Zipaquir\u00e1",
+            "state": "CO-CUN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/COMPUSERVICE+MW",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 132
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1397660208,
+        "nickname": "TECHMEGA20230612155919",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECHMEGA20230612155919",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 4451
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 526310449,
+        "nickname": "LE1654129",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/LE1654129",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 2161
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1261312051,
+        "nickname": "CNJINWENSHOP-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shanghai",
+            "state": "CN-SH"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNJINWENSHOP-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 753
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1801699380,
+        "nickname": "OFFERBUYS",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/OFFERBUYS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 1925
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 51723829,
+        "nickname": "WWW.VENTASENLINEAINC.COM",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/WWW.VENTASENLINEAINC.COM",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 2026
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 153050165,
+        "nickname": "TIENDA NEORTESAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TIENDA+NEORTESAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 153
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 695283255,
+        "nickname": "ACESTELECOMCOLOMBIASASACES",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ACESTELECOMCOLOMBIASASACES",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 51
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1121161272,
+        "nickname": "CNHEISHI-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNHEISHI-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 894
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 205036097,
+        "nickname": "QUILLATIME BQ",
+        "country_id": "CO",
+        "address": {
+            "city": "Barranquilla",
+            "state": "CO-ATL"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/QUILLATIME+BQ",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 261
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1709082178,
+        "nickname": "CNBOOMCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Wuhan",
+            "state": "CN-HB"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNBOOMCOR",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 32
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 224855110,
+        "nickname": "CELULARES JD",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CELULARES+JD",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 3135
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 467864134,
+        "nickname": "TECHNOLOGY CAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Puente Aranda",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECHNOLOGY+CAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 974
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1366910534,
+        "nickname": "CNNAMED-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNNAMED-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 40
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1884597321,
+        "nickname": "HONGKONGBRANDMARKETCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Hengyang",
+            "state": "CN-HN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/HONGKONGBRANDMARKETCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 76
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 248200778,
+        "nickname": "CELUSTORE_",
+        "country_id": "CO",
+        "address": {
+            "city": "Teusaquillo",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CELUSTORE_",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 61
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1322177099,
+        "nickname": "CELUSTORE_COLOMBIA",
+        "country_id": "CO",
+        "address": {
+            "city": "Teusaquillo",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CELUSTORE_COLOMBIA",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 318
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 817519691,
+        "nickname": "AURRAKOCO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/AURRAKOCO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 112
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 73942093,
+        "nickname": "TECNO XPRESS",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECNO+XPRESS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 219
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 731194960,
+        "nickname": "DISTRIBUIDORA LPV",
+        "country_id": "CO",
+        "address": {
+            "city": "Soledad",
+            "state": "CO-ATL"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DISTRIBUIDORA+LPV",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 363
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 470474833,
+        "nickname": "RESELLER_AUTORIZADO",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/RESELLER_AUTORIZADO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 10973
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 556471382,
+        "nickname": "TG PRODUCTOS",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TG+PRODUCTOS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 7129
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 51982422,
+        "nickname": "VENTAS_RAYCAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Floridablanca",
+            "state": "CO-SAN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/VENTAS_RAYCAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 2079
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1091466329,
+        "nickname": "POR_DOCENA",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/POR_DOCENA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 15190
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1314920540,
+        "nickname": "CNTECHHOMEDIRECT-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Guangzhou",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNTECHHOMEDIRECT-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 59
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1514776157,
+        "nickname": "CNSHOEKINGCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Dongguan",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNSHOEKINGCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 67
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 29615709,
+        "nickname": "DISTRIBUIDORA HONGKONG",
+        "country_id": "CO",
+        "address": {
+            "city": "Floridablanca",
+            "state": "CO-SAN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DISTRIBUIDORA+HONGKONG",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 69
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 743887455,
+        "nickname": "DISTRIBUIDORA TECHPRO",
+        "country_id": "CO",
+        "address": {
+            "city": "Barranquilla",
+            "state": "CO-ATL"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DISTRIBUIDORA+TECHPRO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 1098
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1458725985,
+        "nickname": "REINALESHAYDEN20230823184621",
+        "country_id": "CO",
+        "address": {
+            "city": "Tunjuelito",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/REINALESHAYDEN20230823184621",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 121
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1103065698,
+        "nickname": "INTELCOM TECNOLOGIA",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/INTELCOM+TECNOLOGIA",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 34
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 167506021,
+        "nickname": "PASSCALL",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/PASSCALL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 422
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1693486693,
+        "nickname": "CNWUXIANKEJICOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNWUXIANKEJICOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 90
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1373446759,
+        "nickname": "CN8849OFFICIAL-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CN8849OFFICIAL-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 55
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 99347049,
+        "nickname": "JUANMLR2301",
+        "country_id": "CO",
+        "address": {
+            "city": "Barrios Unidos",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JUANMLR2301",
+        "seller_reputation": {
+            "level_id": null,
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 1
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 238535789,
+        "nickname": "SUMIELEC COLOMBIA",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SUMIELEC+COLOMBIA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 1737
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 210886765,
+        "nickname": "JP MAYORISTAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Kennedy",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JP+MAYORISTAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 38
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1273639022,
+        "nickname": "CNUNIHERTZ1-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNUNIHERTZ1-COR",
+        "seller_reputation": {
+            "level_id": null,
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 6
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 736690803,
+        "nickname": "VENTASECOMMERCE10",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/VENTASECOMMERCE10",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 13848
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 140379764,
+        "nickname": "SEBASTIANALEJANDROBAUTISTABA",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SEBASTIANALEJANDROBAUTISTABA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 536
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1336889975,
+        "nickname": "CNJTSDKJ-COR1",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNJTSDKJ-COR1",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 13
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 537432192,
+        "nickname": "TECNICEL 10G",
+        "country_id": "CO",
+        "address": {
+            "city": "Pereira",
+            "state": "CO-RIS"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECNICEL+10G",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 4350
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 142631552,
+        "nickname": "NARVAEZADRIANA83",
+        "country_id": "CO",
+        "address": {
+            "city": "Armenia",
+            "state": "CO-QUI"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/NARVAEZADRIANA83",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 79
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1141757058,
+        "nickname": "TRIANAOSCAR20220612222956",
+        "country_id": "CO",
+        "address": {
+            "city": "Rafael Uribe Uribe",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TRIANAOSCAR20220612222956",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 28
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 623591558,
+        "nickname": "TRAGUATANCOLOMBIA",
+        "country_id": "CO",
+        "address": {
+            "city": "Antonio Nari\u00f1o",
+            "state": "CO-DC"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TRAGUATANCOLOMBIA",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 13
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 136472201,
+        "nickname": "JNARVAEZ72",
+        "country_id": "CO",
+        "address": {
+            "city": "Teusaquillo",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JNARVAEZ72",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 261
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 773660809,
+        "nickname": "OLAVECASTAEDAANGIESTEPHANY",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/OLAVECASTAEDAANGIESTEPHANY",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 2179
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 761420426,
+        "nickname": "TONERCONCO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TONERCONCO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 318
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1449516684,
+        "nickname": "OPENNEO",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/OPENNEO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 65
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 183318670,
+        "nickname": "SETUPCAST",
+        "country_id": "CO",
+        "address": {
+            "city": "Cali",
+            "state": "CO-VAC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SETUPCAST",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 245
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 8019088,
+        "nickname": "HUECOVIRTUAL.CO",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/HUECOVIRTUAL.CO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 4696
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1159718546,
+        "nickname": "CNLYNNTRISTAN-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Linyi",
+            "state": "CN-SD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNLYNNTRISTAN-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 5069
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 55748756,
+        "nickname": "VIRTUA7SHOPPING",
+        "country_id": "CO",
+        "address": {
+            "city": "Monter\u00eda",
+            "state": "CO-COR"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/VIRTUA7SHOPPING",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 270
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 113378453,
+        "nickname": "WEBCASTERSHOP",
+        "country_id": "CO",
+        "address": {
+            "city": "Santa Fe",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/WEBCASTERSHOP",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 2879
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 180287126,
+        "nickname": "LONECESITONET",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/LONECESITONET",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 197
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 176893593,
+        "nickname": "ITECHNOLOGY.",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ITECHNOLOGY.",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 4271
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1378731163,
+        "nickname": "YU AOMORI-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Haikou",
+            "state": "CN-HI"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/YU+AOMORI-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 216
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 225232027,
+        "nickname": "YESIDMARTINEZCORREA",
+        "country_id": "CO",
+        "address": {
+            "city": "Engativ\u00e1",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/YESIDMARTINEZCORREA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 29
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 19576477,
+        "nickname": "THE BESTTECHNOLOGY",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/THE+BESTTECHNOLOGY",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 9201
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1313166495,
+        "nickname": "CNTUSTRONGER-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNTUSTRONGER-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 176
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1734132895,
+        "nickname": "CNSHENZHENKEMANYATECHNOCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Dongguan",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNSHENZHENKEMANYATECHNOCOR",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 5
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1190528170,
+        "nickname": "SINGINGBOATSCOR",
+        "country_id": "CO",
+        "address": {
+            "city": "Xi'an",
+            "state": "CN-SN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SINGINGBOATSCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 317
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 726912172,
+        "nickname": "PREMIUN SHOP",
+        "country_id": "CO",
+        "address": {
+            "city": "Bello",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/PREMIUN+SHOP",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 130
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1286306988,
+        "nickname": "CNFRANTON-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Dongyang",
+            "state": "CN-ZJ"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNFRANTON-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 299
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 659967662,
+        "nickname": "TECNOCOREMOBILE",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECNOCOREMOBILE",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 1596
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 802503856,
+        "nickname": "ICBTRADINGCOR",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ICBTRADINGCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 119
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 530380977,
+        "nickname": "MERCADOLIBRE ELECTRONICA_CO",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MERCADOLIBRE+ELECTRONICA_CO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 848
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 70087856,
+        "nickname": "APRECIOSDEREMATE",
+        "country_id": "CO",
+        "address": {
+            "city": "Floridablanca",
+            "state": "CO-SAN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/APRECIOSDEREMATE",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 12242
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 406781619,
+        "nickname": "TECHNOLOGYRIVER",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECHNOLOGYRIVER",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 7004
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1042129587,
+        "nickname": "BLACKBOX_TIENDA_VIRTUAL",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/BLACKBOX_TIENDA_VIRTUAL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 12
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 244320949,
+        "nickname": "MAJESTYCJTECNOLOGIAYBELLEZA",
+        "country_id": "CO",
+        "address": {
+            "city": "Rafael Uribe Uribe",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MAJESTYCJTECNOLOGIAYBELLEZA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 346
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 628766905,
+        "nickname": "MAYORISTADEROCHA",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MAYORISTADEROCHA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 1937
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1273773244,
+        "nickname": "CNXIAOFAN-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Yiwu",
+            "state": "CN-ZJ"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNXIAOFAN-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 212
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 687605437,
+        "nickname": "HDC_TIENDA",
+        "country_id": "CO",
+        "address": {
+            "city": "Cali",
+            "state": "CO-VAC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/HDC_TIENDA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 549
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1733462204,
+        "nickname": "NANMUMUNCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Yantai",
+            "state": "CN-SD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/NANMUMUNCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 333
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1789042364,
+        "nickname": "CNXILECOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Jiaozuo",
+            "state": "CN-HA"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNXILECOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 40
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 476229825,
+        "nickname": "RIVERTECHNOLOGYLTDA",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/RIVERTECHNOLOGYLTDA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 3398
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 97834180,
+        "nickname": "MOBILE CONNECTION",
+        "country_id": "CO",
+        "address": {
+            "city": "Fontib\u00f3n",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MOBILE+CONNECTION",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 98
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 696461005,
+        "nickname": "HULUCOMERCIALIZADORASAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Teusaquillo",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/HULUCOMERCIALIZADORASAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 4224
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 55439565,
+        "nickname": "ZEROPAR",
+        "country_id": "CO",
+        "address": {
+            "city": "Usaqu\u00e9n",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ZEROPAR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 459
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 770191568,
+        "nickname": "DINGBOUTIQUECO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DINGBOUTIQUECO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 138
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 262781656,
+        "nickname": "JYSTUTIENDATECNOLOGICA",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JYSTUTIENDATECNOLOGICA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 378
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 38584026,
+        "nickname": "TECH REMATES",
+        "country_id": "CO",
+        "address": {
+            "city": "Teusaquillo",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECH+REMATES",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 980
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 772841181,
+        "nickname": "LOGOHUGECO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/LOGOHUGECO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 233
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1753508066,
+        "nickname": "SHOPPERXIAOMISTORE30",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SHOPPERXIAOMISTORE30",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 1098
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 537076452,
+        "nickname": "RYRIMPORTSAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Puente Aranda",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/RYRIMPORTSAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 325
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1536284902,
+        "nickname": "EKYS",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/EKYS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 4626
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1573292268,
+        "nickname": "CENTERPHONEYOPAL",
+        "country_id": "CO",
+        "address": {
+            "city": "Yopal",
+            "state": "CO-CAS"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CENTERPHONEYOPAL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 117
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 207591665,
+        "nickname": "CELULANDER",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CELULANDER",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 3566
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 80179441,
+        "nickname": "TELE_DANIEL",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TELE_DANIEL",
+        "seller_reputation": {
+            "level_id": "3_yellow",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 27
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 399831288,
+        "nickname": "DEROCHA STORE",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DEROCHA+STORE",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 15357
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 394887418,
+        "nickname": "TIENDASOFICIALESCOL",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TIENDASOFICIALESCOL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 5105
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1395922172,
+        "nickname": "CNNIUSHUWEN-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Xinxiang",
+            "state": "CN-HA"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNNIUSHUWEN-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 312
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 302612225,
+        "nickname": "LEFTIMPORTACIONES",
+        "country_id": "CO",
+        "address": {
+            "city": "Cali",
+            "state": "CO-VAC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/LEFTIMPORTACIONES",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 540
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 376490757,
+        "nickname": "IMPORT GROUPSAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/IMPORT+GROUPSAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 5531
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 41585416,
+        "nickname": "ANDING11",
+        "country_id": "CO",
+        "address": {
+            "city": "Fontib\u00f3n",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ANDING11",
+        "seller_reputation": {
+            "level_id": "3_yellow",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 79
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 134920461,
+        "nickname": "TIENDANOSTRA.COM",
+        "country_id": "CO",
+        "address": {
+            "city": "Usaqu\u00e9n",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TIENDANOSTRA.COM",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 1177
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1757204237,
+        "nickname": "CNGOLDENCARFIELDMALLFFCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNGOLDENCARFIELDMALLFFCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 95
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 443345170,
+        "nickname": "COMPRANDOANDO_COL",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/COMPRANDOANDO_COL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 7578
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1487320852,
+        "nickname": "MARTINMARTIN20230921114633",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MARTINMARTIN20230921114633",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 15
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 244067605,
+        "nickname": "CELUOFERTASYMAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Bello",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CELUOFERTASYMAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 1227
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 65236757,
+        "nickname": "MUND0GEEK",
+        "country_id": "CO",
+        "address": {
+            "city": "Monter\u00eda",
+            "state": "CO-COR"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MUND0GEEK",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 154
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1724461334,
+        "nickname": "CNXIAMENSUXINDIANZISHANCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Shangrao",
+            "state": "CN-JX"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNXIAMENSUXINDIANZISHANCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 98
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 760907546,
+        "nickname": "LEADERSCO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/LEADERSCO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 49
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1249797915,
+        "nickname": "CNLIUZHIGANG-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Xianning",
+            "state": "CN-HB"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNLIUZHIGANG-COR",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 454
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 27908895,
+        "nickname": "WESTDIGITAL_COL",
+        "country_id": "CO",
+        "address": {
+            "city": "Puente Aranda",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/WESTDIGITAL_COL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 313
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 83384099,
+        "nickname": "EMPIREVILLA_",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/EMPIREVILLA_",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 553
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1148810541,
+        "nickname": "CNESTAR-COR",
+        "country_id": "CN",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNESTAR-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 506
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 81193263,
+        "nickname": "RUGERIZADOS",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/RUGERIZADOS",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 18
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 772824879,
+        "nickname": "FINGERDCO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/FINGERDCO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 216
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1273609523,
+        "nickname": "CNBUYBOXER-COR",
+        "country_id": "CN",
+        "address": {
+            "city": "Ningbo",
+            "state": "CN-ZJ"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNBUYBOXER-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 402
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1314871606,
+        "nickname": "CNMERCARO-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNMERCARO-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 665
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 742253879,
+        "nickname": "ANAMILENAHUERTASCANCHALA",
+        "country_id": "CO",
+        "address": {
+            "city": "Teusaquillo",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ANAMILENAHUERTASCANCHALA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 1074
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 74858296,
+        "nickname": "JEIBERYPAULASHOP",
+        "country_id": "CO",
+        "address": {
+            "city": "Kennedy",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JEIBERYPAULASHOP",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 159
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 238038329,
+        "nickname": "TIENDA-OFICIAL-EN-LINEA",
+        "country_id": "CO",
+        "address": {
+            "city": "Funza",
+            "state": "CO-CUN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TIENDA-OFICIAL-EN-LINEA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 24781
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 761140535,
+        "nickname": "GLOBALSTORECO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/GLOBALSTORECO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 569
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 219702071,
+        "nickname": "JUANBY_ALFONSO",
+        "country_id": "CO",
+        "address": {
+            "city": "Teusaquillo",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JUANBY_ALFONSO",
+        "seller_reputation": {
+            "level_id": "3_yellow",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 88
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 768077629,
+        "nickname": "CELUBARATO.NET",
+        "country_id": "CO",
+        "address": {
+            "city": "Bucaramanga",
+            "state": "CO-SAN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CELUBARATO.NET",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 580
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 52392766,
+        "nickname": "JD MARKET",
+        "country_id": "CO",
+        "address": {
+            "city": "Teusaquillo",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JD+MARKET",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 52265
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 79675710,
+        "nickname": "MAGNUSSCOLOMBIA",
+        "country_id": "CO",
+        "address": {
+            "city": "Puente Aranda",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MAGNUSSCOLOMBIA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 37
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1157440833,
+        "nickname": "CNGAMOKE-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Changsha",
+            "state": "CN-HN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNGAMOKE-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 66
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1303129921,
+        "nickname": "CNDOWINO-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Baoding",
+            "state": "CN-HE"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNDOWINO-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 645
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1190588231,
+        "nickname": "JEANCANIELI-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Central & Western",
+            "state": "HK-HK"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JEANCANIELI-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 1220
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 825475401,
+        "nickname": "TWISTERSHOPSAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TWISTERSHOPSAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 13204
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 133914442,
+        "nickname": "TIENDA_TXG",
+        "country_id": "CO",
+        "address": {
+            "city": "Floridablanca",
+            "state": "CO-SAN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TIENDA_TXG",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 579
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 225940300,
+        "nickname": "DISPLAYSTATION",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DISPLAYSTATION",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 57
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 192217424,
+        "nickname": "TECNO_SFERA",
+        "country_id": "CO",
+        "address": {
+            "city": "Engativ\u00e1",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECNO_SFERA",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 287
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1732734801,
+        "nickname": "CNSEAMARKCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNSEAMARKCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 20
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1190522198,
+        "nickname": "HAPPYMALLCOR",
+        "country_id": "CO",
+        "address": {
+            "city": "Putian",
+            "state": "CN-FJ"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/HAPPYMALLCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 143
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 22349656,
+        "nickname": "NEXTECHNOLOGYBTA",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/NEXTECHNOLOGYBTA",
+        "seller_reputation": {
+            "level_id": null,
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 7
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 173391710,
+        "nickname": "INNOVATECHMB",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/INNOVATECHMB",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 9833
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 352040801,
+        "nickname": "TECNOJMGSOLUCIONES",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECNOJMGSOLUCIONES",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 2576
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1484177763,
+        "nickname": "SNEKERSSHOPPING",
+        "country_id": "CO",
+        "address": {
+            "city": "Engativ\u00e1",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SNEKERSSHOPPING",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 1677
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1884249959,
+        "nickname": "CNQUANZHOUDIANMAOTRADINCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Quanzhou",
+            "state": "CN-FJ"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNQUANZHOUDIANMAOTRADINCOR",
+        "seller_reputation": {
+            "level_id": "3_yellow",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 44
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1280808296,
+        "nickname": "CNCHEN3-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Guangzhou",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNCHEN3-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 12
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1456712042,
+        "nickname": "DMHOSTING",
+        "country_id": "CO",
+        "address": {
+            "city": "Sincelejo",
+            "state": "CO-SUC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DMHOSTING",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 784
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1022370671,
+        "nickname": "QUIEROMAC",
+        "country_id": "CO",
+        "address": {
+            "city": "Barrios Unidos",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/QUIEROMAC",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 1062
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 524719475,
+        "nickname": "REFURBI",
+        "country_id": "CO",
+        "address": {
+            "city": "Tenjo",
+            "state": "CO-CUN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/REFURBI",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 537
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 370553717,
+        "nickname": "BYSCELCOMUNICACIONES",
+        "country_id": "CO",
+        "address": {
+            "city": "Espinal",
+            "state": "CO-TOL"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/BYSCELCOMUNICACIONES",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 1407
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1059924855,
+        "nickname": "CAMISETASDELA 18",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CAMISETASDELA+18",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 6655
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 44664184,
+        "nickname": "SHOPC VIRTUAL",
+        "country_id": "CO",
+        "address": {
+            "city": "Antonio Nari\u00f1o",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SHOPC+VIRTUAL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 1483
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1071946105,
+        "nickname": "DIVERCELL COL",
+        "country_id": "CO",
+        "address": {
+            "city": "Barranquilla",
+            "state": "CO-ATL"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DIVERCELL+COL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 490
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 178626427,
+        "nickname": "YARA EXPRESS",
+        "country_id": "CO",
+        "address": {
+            "city": "Barrios Unidos",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/YARA+EXPRESS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 1506
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1165267326,
+        "nickname": "ZICHUANGWANGLUOCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Gaozhou",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ZICHUANGWANGLUOCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 51
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1190492547,
+        "nickname": "CNANJIESI-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Dongguan",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNANJIESI-COR",
+        "seller_reputation": {
+            "level_id": null,
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 4
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1190578564,
+        "nickname": "CNZANEDYBRANDSTORE-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNZANEDYBRANDSTORE-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 16
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 312658824,
+        "nickname": "ALDNET TIENDAVIRTUAL",
+        "country_id": "CO",
+        "address": {
+            "city": "Santa Fe",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ALDNET+TIENDAVIRTUAL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 1641
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 219322249,
+        "nickname": "TEAM BEAR",
+        "country_id": "CO",
+        "address": {
+            "city": "Madrid",
+            "state": "CO-CUN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TEAM+BEAR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 307
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1067038602,
+        "nickname": "CAMACHOMATEO20220201225445",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CAMACHOMATEO20220201225445",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 3206
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 426283404,
+        "nickname": "TEKSHOP_COLOMBIA",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TEKSHOP_COLOMBIA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 21707
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 120952721,
+        "nickname": "MPERIAMOBILE1",
+        "country_id": "CO",
+        "address": {
+            "city": "Engativ\u00e1",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MPERIAMOBILE1",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 123
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 205606809,
+        "nickname": "TEKNOPOLISCOLOMBIA",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TEKNOPOLISCOLOMBIA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 15354
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 76502426,
+        "nickname": "TECHNOSTORE2009",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECHNOSTORE2009",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 513
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 449370011,
+        "nickname": "KRONO DIGITAL",
+        "country_id": "CO",
+        "address": {
+            "city": "Martires",
+            "state": "CO-DC"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/KRONO+DIGITAL",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 427
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1510320025,
+        "nickname": "CNGOODLIFE3COR",
+        "country_id": "CN",
+        "address": {
+            "city": "Dongguan",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNGOODLIFE3COR",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 6
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1188576157,
+        "nickname": "TECNOOVA_",
+        "country_id": "CO",
+        "address": {
+            "city": "Cota",
+            "state": "CO-CUN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECNOOVA_",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 3491
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1652853662,
+        "nickname": "CNTUKEMEICOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Jiaxing",
+            "state": "CN-ZJ"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNTUKEMEICOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 151
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 143466911,
+        "nickname": "ANDICELL SOLUCIONESS",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ANDICELL+SOLUCIONESS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 4225
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1570816929,
+        "nickname": "CNADELAIDEDRACOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNADELAIDEDRACOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 12
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 273811874,
+        "nickname": "MACROCELL",
+        "country_id": "CO",
+        "address": {
+            "city": "Sabaneta",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MACROCELL",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 4
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 126537642,
+        "nickname": "GAAG TELEFONIAYACCESORIOS",
+        "country_id": "CO",
+        "address": {
+            "city": "Engativ\u00e1",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/GAAG+TELEFONIAYACCESORIOS",
+        "seller_reputation": {
+            "level_id": "3_yellow",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 476
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 186651567,
+        "nickname": "COMMAGIC SAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/COMMAGIC+SAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 707
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1154123700,
+        "nickname": "CNHAPPYSHOPPING06-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNHAPPYSHOPPING06-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 133
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 801455540,
+        "nickname": "JENNYEXPRESS",
+        "country_id": "CO",
+        "address": {
+            "city": "Pailitas",
+            "state": "CO-CES"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JENNYEXPRESS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 2275
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 75376567,
+        "nickname": "GLONDONO",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/GLONDONO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 32
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1207093176,
+        "nickname": "SAMSUNG COLOMBIA",
+        "country_id": "CO",
+        "address": {
+            "city": "Tenjo",
+            "state": "CO-CUN"
+        },
+        "user_type": "brand",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SAMSUNG+COLOMBIA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 24724
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1304628155,
+        "nickname": "CNUNIHERTZ2-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNUNIHERTZ2-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 28
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 803080635,
+        "nickname": "RUBYLANDONCO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/RUBYLANDONCO",
+        "seller_reputation": {
+            "level_id": "3_yellow",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 127
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 751840192,
+        "nickname": "DOIFERCO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DOIFERCO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 378
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 37604289,
+        "nickname": "MICROMAKRO MUNDO",
+        "country_id": "CO",
+        "address": {
+            "city": "Chapinero",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MICROMAKRO+MUNDO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 335
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1562425794,
+        "nickname": "PEAKERCOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/PEAKERCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 142
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 512687555,
+        "nickname": "ECOMBRANDS",
+        "country_id": "CO",
+        "address": {
+            "city": "Fontib\u00f3n",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ECOMBRANDS",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 2128
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 187643332,
+        "nickname": "NETLOGICCOL",
+        "country_id": "CO",
+        "address": {
+            "city": "Tenjo",
+            "state": "CO-CUN"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/NETLOGICCOL",
+        "seller_reputation": {
+            "level_id": "4_light_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 38
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 289102277,
+        "nickname": "ZUGAR TECHNOLOGY",
+        "country_id": "CO",
+        "address": {
+            "city": "Valledupar",
+            "state": "CO-CES"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ZUGAR+TECHNOLOGY",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 1487
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 761152971,
+        "nickname": "HOLIDAYCO",
+        "country_id": "CO",
+        "address": {
+            "city": "Ciudad Bolivar",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/HOLIDAYCO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 57
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 702874066,
+        "nickname": "SANTIAGOPARRAANZOLA",
+        "country_id": "CO",
+        "address": {
+            "city": "Bosa",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/SANTIAGOPARRAANZOLA",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 44
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 73243604,
+        "nickname": "GREYBAQUEROLEZCANO",
+        "country_id": "CO",
+        "address": {
+            "city": "Kennedy",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/GREYBAQUEROLEZCANO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 12882
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 86434261,
+        "nickname": "JAVIHERNANVALLE",
+        "country_id": "CO",
+        "address": {
+            "city": "Usaqu\u00e9n",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JAVIHERNANVALLE",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 309
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 584760790,
+        "nickname": "CREDICOP STORE",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CREDICOP+STORE",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 1930
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 486253528,
+        "nickname": "TELENOVEDADES TV",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TELENOVEDADES+TV",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 2052
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 138449369,
+        "nickname": "MI MEDELLINSHOP",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/MI+MEDELLINSHOP",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 15784
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 162935771,
+        "nickname": "DAMORENO9327",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DAMORENO9327",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 24
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 142995934,
+        "nickname": "JGVRACING",
+        "country_id": "CO",
+        "address": {
+            "city": "Engativ\u00e1",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/JGVRACING",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 47
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1345905641,
+        "nickname": "CNLUCKDAY-COR",
+        "country_id": "CO",
+        "address": {
+            "city": "Hengshui",
+            "state": "CN-HE"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNLUCKDAY-COR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 121
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1773325290,
+        "nickname": "LAETERNAPRODUCTOS",
+        "country_id": "CO",
+        "address": {
+            "city": "Kennedy",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/LAETERNAPRODUCTOS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 614
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 227137519,
+        "nickname": "ELBAZARDELASMARAVILLAS",
+        "country_id": "CO",
+        "address": {
+            "city": "Barrios Unidos",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ELBAZARDELASMARAVILLAS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 145
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 648634353,
+        "nickname": "DIEGO ROBAYO",
+        "country_id": "CO",
+        "address": {
+            "city": "Puente Aranda",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/DIEGO+ROBAYO",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 88
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 658379763,
+        "nickname": "ANDALUZSUMINISTROS",
+        "country_id": "CO",
+        "address": {
+            "city": "Bosa",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/ANDALUZSUMINISTROS",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "gold",
+            "transactions": {
+                "period": "historic",
+                "total": 5990
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 266345974,
+        "nickname": "J2CSTORE_HW_RESELLER",
+        "country_id": "CO",
+        "address": {
+            "city": "Suba",
+            "state": "CO-DC"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/J2CSTORE_HW_RESELLER",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "silver",
+            "transactions": {
+                "period": "historic",
+                "total": 279
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1764880889,
+        "nickname": "CNHANGJINGYOUTRADICOR",
+        "country_id": "CN",
+        "address": {
+            "city": "Huanggang",
+            "state": "CN-HB"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNHANGJINGYOUTRADICOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 58
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 291001852,
+        "nickname": "TECNOSUPER.",
+        "country_id": "CO",
+        "address": {
+            "city": "Medell\u00edn",
+            "state": "CO-ANT"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/TECNOSUPER.",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": "platinum",
+            "transactions": {
+                "period": "historic",
+                "total": 13349
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    },
+    {
+        "id": 1190570495,
+        "nickname": "CNDGSANMOCOR",
+        "country_id": "CO",
+        "address": {
+            "city": "Shenzhen",
+            "state": "CN-GD"
+        },
+        "user_type": "normal",
+        "site_id": "MCO",
+        "permalink": "http://perfil.mercadolibre.com.co/CNDGSANMOCOR",
+        "seller_reputation": {
+            "level_id": "5_green",
+            "power_seller_status": null,
+            "transactions": {
+                "period": "historic",
+                "total": 45
+            }
+        },
+        "status": {
+            "site_status": "active"
+        }
+    }
+]
